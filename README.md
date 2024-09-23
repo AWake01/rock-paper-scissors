@@ -1,2 +1,4 @@
 # rock-paper-sissors
-Rock, paper, sissors Game
+Console-based rock paoer sissors game.
+
+As per OP task, no loops are used.
