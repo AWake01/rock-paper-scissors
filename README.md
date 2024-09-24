@@ -1,4 +1,6 @@
 # rock-paper-sissors
-Console-based rock paoer sissors game.
+23/09/2024 : Console-based rock paper sissors game.
 
-As per OP task, no loops are used.
+             As per OP task, no loops are used.
+
+24/09/2024:  Branch created for DOM manipulation UI.
