@@ -1,0 +1,15 @@
+* {
+    text-align: center;
+}
+
+.playerChoiceBtn {
+    font-size: 50px;
+}
+
+button {
+    font-size: 45px;
+}
+
+h2 {
+    text-decoration: underline;
+}
